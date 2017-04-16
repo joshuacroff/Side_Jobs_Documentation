@@ -20,13 +20,13 @@ Faced with difficult multi-criteria choices like those outlined above, it's usef
 
 For this analysis, three static [isochronal maps](http://wiki.openstreetmap.org/wiki/Isochrone) were created based on three proposed office locations. The three maps show [commute times](https://en.wikipedia.org/wiki/Isochrone_map#/media/File:Drive_time_isochrones_airports_northern_Finland.png) instead of commute distance from each proposed location.
 
-Other examples include [OneBayArea / Maps](http://maps.onebayarea.org/travel_housing/#origin=375+Beale+St,+SF,+CA&mode=da&time=AM&scenario=2010&xyz=9.00/37.7880/-122.3915), which is an interactive tool that allows users to see what areas are accessible within a given time frame. Users can choose a number of filters including:
+Other examples include [**OneBayArea / Maps**](http://maps.onebayarea.org/travel_housing/#origin=375+Beale+St,+SF,+CA&mode=da&time=AM&scenario=2010&xyz=9.00/37.7880/-122.3915), which is an interactive tool that allows users to see what areas are accessible within a given time frame. Users can choose a number of filters including:
 - travel times
 - travel mode
 - time of day
 - median home prices
 - and simulation year
-Tool uses [Metropolitan Transportation Commission -511 Real-Time Travel Information](http://511.org/)
+Tool uses [**Metropolitan Transportation Commission -511 Real-Time Travel Information**](http://511.org/)
 
 Commute times were measured in 15 - minute increments radiating outward from the proposed office location. Areas accessible within pre-defined increments of time were symbolized with different colors to indicate places accessible from proposed office locations in a single-occupant auto during AM Commute Time **(8:00 A.M. - 11:00 A.M.)**.
 
