@@ -26,7 +26,8 @@ Other examples include [**OneBayArea / Maps**](http://maps.onebayarea.org/travel
 - time of day
 - median home prices
 - and simulation year
-Tool uses [**Metropolitan Transportation Commission -511 Real-Time Travel Information**](http://511.org/)
+
+_Tool uses [**Metropolitan Transportation Commission -511 Real-Time Travel Information**](http://511.org/)_
 
 Commute times were measured in 15 - minute increments radiating outward from the proposed office location. Areas accessible within pre-defined increments of time were symbolized with different colors to indicate places accessible from proposed office locations in a single-occupant auto during AM Commute Time **(8:00 A.M. - 11:00 A.M.)**.
 
