@@ -16,6 +16,10 @@ Faced with difficult multi-criteria choices like those outlined above, it's usef
 
 **Methodology**
 
+***Privacy Considerations***
+
+In taking on this project, my goal was to document my analysis methodology for a general audience so others could learn from my process. All data and results however are private and shared only with the project client.
+
 ***Summary***
 
 For this analysis, three static [isochronal maps](http://wiki.openstreetmap.org/wiki/Isochrone) were created based on three proposed office locations. The three maps show [commute times](https://en.wikipedia.org/wiki/Isochrone_map#/media/File:Drive_time_isochrones_airports_northern_Finland.png) instead of commute distance from each proposed location.
@@ -36,6 +40,9 @@ Employee home addresses were [geocoded](https://en.wikipedia.org/wiki/Geocoding)
 ***Analysis Tools***
 
 ***Detailed Methodology***
+
+**Analysis Results**
+
 
 
 
